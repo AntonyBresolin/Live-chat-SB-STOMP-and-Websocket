@@ -1,4 +1,4 @@
 package github.antonybresolin.livechat.domain;
 
-public record ChatOutPut(String message) {
+public record ChatOutPut(String content) {
 }
